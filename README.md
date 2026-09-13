@@ -58,4 +58,4 @@ Nome do estudante: ______________________
 
 Depois de criar o repositório público, inserir aqui o link:
 
-https://github.com/SEU-USUARIO/SGBM-Biblioteca
+hhps://aribeiro2-max/SGBM-Biblioteca
